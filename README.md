@@ -1,16 +1,18 @@
-### Hi there 👋
+<pre>
 
-<!--
-**NeonIT56/NeonIT56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ___      __     ___________     ___________     ___      __           ___________     ___________     ___________     ___________  
+|   \    |  |   |    _______|   |           |   |   \    |  |         |           |   |           |   |           |   |           |
+|    \   |  |   |   |           |  |‾‾‾‾‾|  |   |    \   |  |          ‾‾‾|   |‾‾‾     ‾‾‾|   |‾‾‾    |  |‾‾‾‾‾‾‾‾    |  |‾‾‾‾‾‾‾‾
+|     \  |  |   |   |_____      |  |     |  |   |     \  |  |             |   |           |   |       |  |________    |  |________
+|  |\  \ |  |   |         |     |  |     |  |   |  |\  \ |  |             |   |           |   |       |________   |   |   _____   |
+|  | \  \|  |   |   |‾‾‾‾‾      |  |     |  |   |  | \  \|  |             |   |           |   |                |  |   |  |     |  |
+|  |  \     |   |   |_______    |  |_____|  |   |  |  \     |          ___|   |___        |   |        ________|  |   |  |_____|  |
+|__|   \____|   |___________|   |___________|   |__|   \____|         |___________|       |___|       |___________|   |___________|
 
-Here are some ideas to get you started:
+<h2>Hello there fellow coders 👋</h2>
+My name is Marko, I'm a software engineer that studies at Faculty of Technical Sciences in Novi Sad, Serbia.
+<br>Love learning new things and always open for new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests:<ul><li>Coding 👨‍💻</li><li>Gym 🤸‍♀️</li><li>Motorcycles 🛵</li><li>Gaming 🎮</li>
+</ul>Feel free to contact me on <a href="https://www.linkedin.com/in/marko-jevic/">LinkedIn</a> or via <a href="mailto:mmmmare23@gmail.com">Email</a>
+</pre>
