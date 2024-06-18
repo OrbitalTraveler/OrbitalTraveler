@@ -1,5 +1,5 @@
 <pre>
-![Orbital Traveler](https://imgur.com/a/nT1pwd6.png)
+![Orbital Traveler](https://i.imgur.com/wbsc25F.png)
 
 <h2>Hello there fellow coders 👋</h2>
 My name is Marko, I'm a software engineer that studies at Faculty of Technical Sciences in Novi Sad, Serbia.
