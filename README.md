@@ -4,4 +4,4 @@ My name is Marko, I'm a software engineer that studies at Faculty of Technical S
 <br>Love learning new things and always open for new challenges.
 
 Interests:<ul><li>Coding 👨‍💻</li><li>Gym 🤸‍♀️</li><li>Motorcycles 🛵</li><li>Gaming 🎮</li>
-</ul>Feel free to contact me on <a href="https://www.linkedin.com/in/marko-jevic/">LinkedIn</a> or via <a href="mailto:mmmmare23@gmail.com">Email</a>
+</ul>Feel free to contact me on <a href="https://www.linkedin.com/in/marko-jevic/">LinkedIn</a> or via <a href="mailto:marko.jevic03@gmail.com">Email</a>
